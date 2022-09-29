@@ -6,7 +6,7 @@ This particular web app is made by using React js , Express ,Node.JS ,Socket IO 
 Features:-
 [*]Uses Express as the application Framework.
 [*]Real-time communication between a client and a server using Socket.Io.
-[*]Uses React JS as backend .
+[*]Uses React JS as frontend .
 
 Sockets:-
 [*]Having an active connection opened between the client and the server so client can send and receive data.
